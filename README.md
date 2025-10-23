@@ -44,6 +44,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Jot](https://github.com/bjarneo/omarchy-jot) - Jot, a single-purpose tool for capturing a thought before it disappears.
 
+[omado](https://github.com/ejuro/omado) - A fast, minimal todo application built specifically for Omarchy. Both GUI and CLI interfaces.
+
 ### Utils
 
 [HyprMon](https://github.com/erans/hyprmon) - HyprMon is a TUI (Terminal User Interface) tool for configuring monitors on Arch Linux running Wayland with Hyprland.
