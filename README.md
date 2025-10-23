@@ -60,6 +60,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [deckarchy](https://github.com/aorumbayev/deckarchy) - Fix Steam Deck OLED hardware issues after installing Omarchy on a vanilla Arch Linux installation.
 
+[Downloader-In-Omarchy](https://github.com/AzlanEh/Downloader-In-Omarchy) - A blazing-fast download manager for Arch Linux users, integrated into the Omarchy ecosystem.
+
 [Intel Mac T2 Setup Script](https://github.com/adrianjean/omarchyt2) - This script will help configure Omarchy Linux on Intel Macs with the Apple T2 chip.
 
 [HyprMon](https://github.com/erans/hyprmon) - HyprMon is a TUI (Terminal User Interface) tool for configuring monitors on Arch Linux running Wayland with Hyprland.
