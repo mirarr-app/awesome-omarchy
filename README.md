@@ -40,6 +40,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchy Tmux](https://github.com/joaofelipegalvao/omarchy-tmux) - Tmux themes that automatically sync with Omarchy theme changes.
 
+[Omazed](https://github.com/APS6/omazed) - Live theme switching for Zed in Omarchy.
+
 ### Productivity
 
 [Jot](https://github.com/bjarneo/omarchy-jot) - Jot, a single-purpose tool for capturing a thought before it disappears.
