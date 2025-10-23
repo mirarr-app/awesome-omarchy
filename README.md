@@ -41,4 +41,6 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [HyprMon](https://github.com/erans/hyprmon) - HyprMon is a TUI (Terminal User Interface) tool for configuring monitors on Arch Linux running Wayland with Hyprland.
 
+[hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Arch / Omarchy.
+
 [Omarchy Cleaner](https://github.com/maxart/omarchy-cleaner) - An interactive shell script to remove unwanted default applications and webapps from Omarchy installations with a clean, visual interface.
