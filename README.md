@@ -34,6 +34,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchist](https://github.com/tahayvr/omarchist) - Omarchist brings Omarchy theme creation into the visual realm. Design, preview, and fine-tune your themes with color pickers, easy updates, and an intuitive interface that makes customization effortless.
 
+[Tēma](https://github.com/bjarneo/tema) - A GTK4/Adwaita Omarchy theming application that integrates with pywal for automatic color scheme generation.
+
 
 ### Utils
 
