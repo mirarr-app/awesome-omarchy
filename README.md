@@ -51,3 +51,5 @@ Read more at [omarchy.org](https://omarchy.org).
 [hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Arch / Omarchy.
 
 [Omarchy Cleaner](https://github.com/maxart/omarchy-cleaner) - An interactive shell script to remove unwanted default applications and webapps from Omarchy installations with a clean, visual interface.
+
+[WireGuard VPN Toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) - A clean, automated installer for adding a WireGuard VPN toggle to Omarchy's Waybar status bar.
