@@ -40,6 +40,10 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchy Tmux](https://github.com/joaofelipegalvao/omarchy-tmux) - Tmux themes that automatically sync with Omarchy theme changes.
 
+### Productivity
+
+[Jot](https://github.com/bjarneo/omarchy-jot) - Jot, a single-purpose tool for capturing a thought before it disappears.
+
 ### Utils
 
 [HyprMon](https://github.com/erans/hyprmon) - HyprMon is a TUI (Terminal User Interface) tool for configuring monitors on Arch Linux running Wayland with Hyprland.
