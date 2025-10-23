@@ -36,7 +36,7 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Aether](https://github.com/bjarneo/aether) - A visual theming application for Omarchy. Create beautiful desktop themes through real-time color manipulation, wallpaper integration, and template-based theme generation.
 <details>
-   https://github.com/user-attachments/assets/d0571670-e98f-4717-834c-34d6a2ec53f1
+[![Aether Preview](https://github.com/user-attachments/assets/d0571670-e98f-4717-834c-34d6a2ec53f1)](https://github.com/bjarneo/aether)
 </details>
 
 [Live Wallpaper Manager](https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux) - Live Wallpaper Manager for Omarchy & Hyprland.
