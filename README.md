@@ -30,6 +30,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 ### Customization
 
+[Aether](https://github.com/bjarneo/aether) - A visual theming application for Omarchy. Create beautiful desktop themes through real-time color manipulation, wallpaper integration, and template-based theme generation.
+
 [Omarchist](https://github.com/tahayvr/omarchist) - Omarchist brings Omarchy theme creation into the visual realm. Design, preview, and fine-tune your themes with color pickers, easy updates, and an intuitive interface that makes customization effortless.
 
 
