@@ -52,6 +52,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [omado](https://github.com/ejuro/omado) - A fast, minimal todo application built specifically for Omarchy. Both GUI and CLI interfaces.
 
+[unfocol](https://github.com/MrOnijohn/unfocol) -  Color based tui focus timer for Omarchy.
+
 ### Utils
 
 [deckarchy](https://github.com/aorumbayev/deckarchy) - Fix Steam Deck OLED hardware issues after installing Omarchy on a vanilla Arch Linux installation.
