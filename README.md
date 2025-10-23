@@ -48,6 +48,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 ### Utils
 
+[Intel Mac T2 Setup Script](https://github.com/adrianjean/omarchyt2) - This script will help configure Omarchy Linux on Intel Macs with the Apple T2 chip.
+
 [HyprMon](https://github.com/erans/hyprmon) - HyprMon is a TUI (Terminal User Interface) tool for configuring monitors on Arch Linux running Wayland with Hyprland.
 
 [hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Arch / Omarchy.
