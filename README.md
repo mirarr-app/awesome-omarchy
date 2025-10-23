@@ -32,3 +32,7 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchist](https://github.com/tahayvr/omarchist) - Omarchist brings Omarchy theme creation into the visual realm. Design, preview, and fine-tune your themes with color pickers, easy updates, and an intuitive interface that makes customization effortless.
 
+
+### Utils
+
+[Omarchy Cleaner](https://github.com/maxart/omarchy-cleaner) - An interactive shell script to remove unwanted default applications and webapps from Omarchy installations with a clean, visual interface.
