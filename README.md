@@ -12,6 +12,10 @@
  ▀█████▀    ▀█   ███   █▀   ███   █▀   ███   ███  ███████▀   ███   █▀    ▀█████▀
                                        ███   █▀
 ```
+This list is made to inspire people into building apps with Omarchy themes support! Let's make everything on the system look CLEAN!
+
+If you made an app with Omarchy in mind open a pull request!
+
 A curated collection of themes and utils made for Omarchy Linux.
 
 ---
