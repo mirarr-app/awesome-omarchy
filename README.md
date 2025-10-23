@@ -60,4 +60,6 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchy Cleaner](https://github.com/maxart/omarchy-cleaner) - An interactive shell script to remove unwanted default applications and webapps from Omarchy installations with a clean, visual interface.
 
+[Omarchy Display Tools](https://github.com/daurydicaprio/omarchy-monitor-toggle) - A robust suite of tools for Omarchy/Hyprland to manage monitor power via keyboard shortcuts and laptop lid events. 
+
 [WireGuard VPN Toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) - A clean, automated installer for adding a WireGuard VPN toggle to Omarchy's Waybar status bar.
