@@ -42,6 +42,10 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omazed](https://github.com/APS6/omazed) - Live theme switching for Zed in Omarchy.
 
+### Media
+
+[Editt](https://github.com/mirarr-app/editt) - Beautiful Image Viewer and Editor. With Omarchy styling support! 
+
 ### Productivity
 
 [Jot](https://github.com/bjarneo/omarchy-jot) - Jot, a single-purpose tool for capturing a thought before it disappears.
