@@ -32,6 +32,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Aether](https://github.com/bjarneo/aether) - A visual theming application for Omarchy. Create beautiful desktop themes through real-time color manipulation, wallpaper integration, and template-based theme generation.
 
+[Live Wallpaper Manager](https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux) - Live Wallpaper Manager for Omarchy & Hyprland.
+
 [Omarchist](https://github.com/tahayvr/omarchist) - Omarchist brings Omarchy theme creation into the visual realm. Design, preview, and fine-tune your themes with color pickers, easy updates, and an intuitive interface that makes customization effortless.
 
 [Tēma](https://github.com/bjarneo/tema) - A GTK4/Adwaita Omarchy theming application that integrates with pywal for automatic color scheme generation.
