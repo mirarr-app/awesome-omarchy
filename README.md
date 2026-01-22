@@ -82,6 +82,7 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [WireGuard VPN Toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) - A clean, automated installer for adding a WireGuard VPN toggle to Omarchy's Waybar status bar.
 
+[lazyVPN-for-Omarchy](https://github.com/blank-query/lazyVPN-for-Omarchy) - A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.
 
 
 
