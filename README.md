@@ -62,6 +62,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 ### Productivity
 
+[FocusD](https://github.com/BibekBhusal0/focusd) - A terminal pomodoro timer with daemon, waybar integration, and interactive TUI.
+
 [Jot](https://github.com/bjarneo/omarchy-jot) - Jot, a single-purpose tool for capturing a thought before it disappears.
 
 [omado](https://github.com/ejuro/omado) - A fast, minimal todo application built specifically for Omarchy. Both GUI and CLI interfaces.
