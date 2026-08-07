@@ -82,6 +82,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchy Display Tools](https://github.com/daurydicaprio/omarchy-monitor-toggle) - A robust suite of tools for Omarchy/Hyprland to manage monitor power via keyboard shortcuts and laptop lid events. 
 
+[Omarchy File Manager](https://github.com/Chase-Fournier/Omarchy-File-Manager) - A simple, fast, and productive file manager for Omarchy. 
+
 [omarchy-hibernate](https://github.com/aserper/omarchy-hibernate) -  A small script that enables hibernation on Omarchy. 
 
 [WireGuard VPN Toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) - A clean, automated installer for adding a WireGuard VPN toggle to Omarchy's Waybar status bar.
