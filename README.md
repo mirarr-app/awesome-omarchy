@@ -58,6 +58,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [omado](https://github.com/ejuro/omado) - A fast, minimal todo application built specifically for Omarchy. Both GUI and CLI interfaces.
 
+[StickyBoard](https://github.com/mirarr-app/StickyBoard) - Sticky Notes for Omarchy.
+
 [unfocol](https://github.com/MrOnijohn/unfocol) -  Color based tui focus timer for Omarchy.
 
 ### Utils
