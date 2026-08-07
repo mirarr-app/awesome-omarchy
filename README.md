@@ -52,6 +52,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Editt](https://github.com/mirarr-app/editt) - Beautiful Image Viewer and Editor. With Omarchy styling support! 
 
+[omarchy-cast](https://github.com/mrCode/omarchy-cast) - Desktop mirroring for Omarchy to AirPlay and Google Cast receivers (Hyprland/Wayland).
+
 [omatunes](https://github.com/Balthazzahr/omatunes) - A lightweight, local-only offline music player built in Rust for Omarchy. 
 
 ### Productivity
