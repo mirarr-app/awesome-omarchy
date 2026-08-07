@@ -52,6 +52,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Editt](https://github.com/mirarr-app/editt) - Beautiful Image Viewer and Editor. With Omarchy styling support! 
 
+[omatunes](https://github.com/Balthazzahr/omatunes) - A lightweight, local-only offline music player built in Rust for Omarchy. 
+
 ### Productivity
 
 [Jot](https://github.com/bjarneo/omarchy-jot) - Jot, a single-purpose tool for capturing a thought before it disappears.
