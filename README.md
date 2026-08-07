@@ -46,6 +46,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 ### Development
 
+[flutter_omarchy](https://github.com/aloisdeniel/flutter_omarchy) - Develop Flutter apps for Omarchy.
+
 [Omarchy Tmux](https://github.com/joaofelipegalvao/omarchy-tmux) - Tmux themes that automatically sync with Omarchy theme changes.
 
 [Omazed](https://github.com/APS6/omazed) - Live theme switching for Zed in Omarchy.
