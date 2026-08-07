@@ -42,6 +42,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Tēma](https://github.com/bjarneo/tema) - A GTK4/Adwaita Omarchy theming application that integrates with pywal for automatic color scheme generation.
 
+[Waybar Themes](https://github.com/HANCORE-linux/waybar-themes) - A collection of Waybar themes inspired by Omarchy, designed to be compatible with various Linux distributions.
+
 ### Development
 
 [Omarchy Tmux](https://github.com/joaofelipegalvao/omarchy-tmux) - Tmux themes that automatically sync with Omarchy theme changes.
