@@ -40,6 +40,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchist](https://github.com/tahayvr/omarchist) - Omarchist brings Omarchy theme creation into the visual realm. Design, preview, and fine-tune your themes with color pickers, easy updates, and an intuitive interface that makes customization effortless.
 
+[Omarchy Auto Theme](https://github.com/AccursedGalaxy/omarchy-auto-theme) - Automatic wallpaper-based theming. matugen builds a Material You palette from the current wallpaper and renders it as a native Omarchy theme, so the whole desktop recolors on every wallpaper change.
+
 [Tēma](https://github.com/bjarneo/tema) - A GTK4/Adwaita Omarchy theming application that integrates with pywal for automatic color scheme generation.
 
 [Waybar Themes](https://github.com/HANCORE-linux/waybar-themes) - A collection of Waybar themes inspired by Omarchy, designed to be compatible with various Linux distributions.
