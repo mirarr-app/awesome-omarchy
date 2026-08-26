@@ -50,6 +50,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchy Tmux](https://github.com/joaofelipegalvao/omarchy-tmux) - Tmux themes that automatically sync with Omarchy theme changes.
 
+[omarchy-aikit](https://github.com/Atypical-Consulting/omarchy-aikit) - Bar widget and menus to run Claude Code's AI Migration Kit skills on any repository: sessions in flight, PRs landed by a background fleet, and a cross-repo work queue, all from a local GitHub mirror.
+
 [Omazed](https://github.com/APS6/omazed) - Live theme switching for Zed in Omarchy.
 
 ### Media
