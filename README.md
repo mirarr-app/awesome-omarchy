@@ -76,6 +76,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [unfocol](https://github.com/MrOnijohn/unfocol) -  Color based tui focus timer for Omarchy.
 
+[Yoru](https://github.com/nathankramm/yoru) - A pixel deer in the corner of your screen that teaches you Omarchy. Follows your theme.
+
 ### Utils
 
 [deckarchy](https://github.com/aorumbayev/deckarchy) - Fix Steam Deck OLED hardware issues after installing Omarchy on a vanilla Arch Linux installation.
