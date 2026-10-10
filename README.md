@@ -42,6 +42,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 [Omarchy Auto Theme](https://github.com/AccursedGalaxy/omarchy-auto-theme) - Automatic wallpaper-based theming. matugen builds a Material You palette from the current wallpaper and renders it as a native Omarchy theme, so the whole desktop recolors on every wallpaper change.
 
+[Omarchy Lumon](https://github.com/jarstelfox/omarchy-lumon) - The Macrodata Refinement screen from Severance as an interactive screensaver, plus a Lumon terminal login as the lock screen.
+
 [Tēma](https://github.com/bjarneo/tema) - A GTK4/Adwaita Omarchy theming application that integrates with pywal for automatic color scheme generation.
 
 [Waybar Themes](https://github.com/HANCORE-linux/waybar-themes) - A collection of Waybar themes inspired by Omarchy, designed to be compatible with various Linux distributions.
