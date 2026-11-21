@@ -80,6 +80,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 ### Utils
 
+[Bypass](https://github.com/yaroshevych/bypass) - Modern terminal secrets manager for KeePass vaults with dynamic Omarchy theme support.
+
 [deckarchy](https://github.com/aorumbayev/deckarchy) - Fix Steam Deck OLED hardware issues after installing Omarchy on a vanilla Arch Linux installation.
 
 [Downloader-In-Omarchy](https://github.com/AzlanEh/Downloader-In-Omarchy) - A blazing-fast download manager for Arch Linux users, integrated into the Omarchy ecosystem.
